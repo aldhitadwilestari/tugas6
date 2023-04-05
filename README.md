@@ -1,3 +1,58 @@
+Nama : Aldhita Dwi Lestari
+Instansi : Universitas PGRI Semarang
+
+Stack yang dipakai yaitu menggunakan Autentikasi yang dipakai/dikasih materi oleh mentor Ala Rai pada tanggal 20 Maret 2023 (Autentikasi manual) 
+
+Cara menjalankan aplikasi : 1. login dengan menggunakan email : admin@gmail.com dan password admin123/registrasi dengan membuat akun baru.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
